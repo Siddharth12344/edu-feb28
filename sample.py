@@ -1,7 +1,5 @@
-a=63
-b=54
-c=85
-d=89
+a=8
+b=9
 
-sum = a+b+c+d
+sum = a+b
 print sum
